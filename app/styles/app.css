@@ -1,0 +1,16 @@
+.jumbotron {
+  background-color: #67fffa;
+}
+
+.rental-img {
+  width: 300px;
+  height: 300px;
+}
+
+.logo {
+  color: black;
+}
+
+.logo:hover {
+  text-decoration: none;
+}
