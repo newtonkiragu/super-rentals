@@ -1,7 +1,6 @@
 # super-rentals
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+The Super Rentals website is a property rental application created to explore the wonderful world of Ember.js
 
 ## Prerequisites
 
